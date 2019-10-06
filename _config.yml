@@ -1,0 +1,8 @@
+encoding: utf-8
+exclude: ["Gemfile", "Gemfile.lock", "CNAME"]
+
+title: "39.gy"
+url: "https://39.gy"
+
+author:
+  name: "ress"

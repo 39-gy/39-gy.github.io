@@ -1,0 +1,49 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<title>{{ site.title }}</title>
+
+	<link rel="canonical" href="{{ page.url | absolute_url }}">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
+
+	<style>
+.container {
+	position: relative;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+@media (min-width: 400px) {
+	.container {
+		width: 85%;
+		padding: 0;
+	}
+}
+
+@media (min-width: 550px) {
+	.container {
+		width: 80%;
+	}
+}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>{{ site.title }}</h1>
+	</header>
+	<main>
+{{ content }}
+	</main>
+	<footer>
+		<small style="text-align: center;">&copy; 2019 <a href="https://x39.dev">Ress</a></small>
+	</footer>
+</body>
+</html>
