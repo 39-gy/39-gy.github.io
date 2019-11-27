@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-このドメインは <a href="https://x39.dev">Ress</a> が管理しています
+このドメインは <a href="https://ress.39.gy/">Ress</a> が管理しています
