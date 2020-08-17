@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-このドメインは <a href="https://profile.39.gy/">Ress</a> が管理しています
+39.gyで公開しているサイト・メールは Ress が管理・関係している個人・組織で使用しています。
+
+問題や問い合わせなどは[Ressのプロフィール](https://profile.39.gy/)から連絡先を確認してください。
